@@ -1,4 +1,8 @@
-p{
-    background-color: antiquewhite;
-    color: red;
+p {
+  background-color: antiquewhite;
+  color: red;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
